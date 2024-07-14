@@ -27,3 +27,6 @@ Use tmux, thank me later. When you install tmux, you'll need to throw in this co
 ```
 .tmux.conf
 ```
+
+### HomeLab
+This will probably get its own repo at some point. More to come here.
