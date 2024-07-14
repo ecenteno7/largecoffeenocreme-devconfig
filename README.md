@@ -3,12 +3,12 @@
 ## Code like him
 
 ```
-erik-config.lua
+erik_config.lua
 keybindings.lua
 ````
 
 ## Tinker like him
 
 ```
-tmux.conf
+.tmux.conf
 ```
