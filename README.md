@@ -3,7 +3,7 @@ So, you're either here because I sent you here because you asked me what my deve
 
 IF however, you are feeling like you want some more customization, or you want to improve your efficiency, or you just want to feel like a hardcore developer (who doesn't, lol)...I've gathered some resources here from my config setups for various tooling I use to write code, build apps, and tinker with OS stuff. 
 
-For some reason, I find this stuff fun. If you do to, then welcome to the party!
+For some reason, I find this stuff fun. If you do too, then welcome to the party!
 
 ## Code like me
 Use nvim, then use these configuration files to get your setup to match.
