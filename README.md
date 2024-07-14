@@ -4,10 +4,11 @@
 
 ```
 erik-config.lua
-
 keybindings.lua
 ````
 
 ## Tinker like him
 
-`tmux.conf`
+```
+tmux.conf
+```
