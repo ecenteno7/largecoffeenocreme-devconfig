@@ -10,7 +10,7 @@ keybindings.lua
 ## Tinker like me
 
 ### MacOS
-- Terminal: iTerm2.
+- Terminal: iTerm2
 
 ### Linux
 - Distro: Nobara (optimized for gaming, streaming, recording, and just general usability)
